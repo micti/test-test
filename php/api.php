@@ -1,6 +1,6 @@
 <?php
 
-$url = include 'config.php';
+$config = include 'config.php';
 
 $url = 'https://stag.api.com';
 
